@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render correctly 1`] = `
+<div
+  className="Home-root-1"
+>
+  <h1
+    className="MuiTypography-root-2 MuiTypography-display1-6"
+  >
+    Hello world
+  </h1>
+  <h2
+    className="MuiTypography-root-2 MuiTypography-title-8"
+  >
+    A minimal library React boilerplate built with performance, testing, and ease of use in mind.
+  </h2>
+</div>
+`;

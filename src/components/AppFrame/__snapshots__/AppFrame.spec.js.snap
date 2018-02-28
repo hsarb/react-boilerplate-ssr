@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppFrame should render correctly 1`] = `
+<AppFrame
+  classes={
+    Object {
+      "content": "AppFrame-content-2",
+      "header": "AppFrame-header-3",
+      "root": "AppFrame-root-1",
+    }
+  }
+>
+  <div />
+</AppFrame>
+`;
